@@ -13,5 +13,12 @@
     "lodash.mergewith": "4.6.1",
     "lodash.zipobjectdeep": "^4.4.0",
     "minimist": "1.2.5"
+  },
+  "dependencies": {
+    "chalk": "^3.0.1",
+    "lodash.merge": "2.6.1",
+    "lodash.mergewith": "1.6.1",
+    "lodash.zipobjectdeep": "^3.4.0",
+    "minimist": "1.2.5"
   }
 }
