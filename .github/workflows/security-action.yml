@@ -16,7 +16,7 @@ on:
 
 jobs:
   security-action:
-    uses: test-reusable-workflow/.github/workflows/semgrep.yml@main
+    uses: test-add-more-org/test-reusable-workflow/.github/workflows/semgrep.yml@main
     with:
       repo: ${{ github.repository }}
     secrets:
